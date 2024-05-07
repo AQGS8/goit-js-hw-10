@@ -10,16 +10,16 @@ input {
 }
 h1{
   font-size: 35px;
-  font-family: Copperplate, Papyrus, fantasy;
+  font-family: "Geneva", Verdana, sans-serif;
 }
 p,
 b {
   font-size: 25px;
-  font-family: Copperplate, Papyrus, fantasy;
+  font-family: "Geneva", Verdana, sans-serif;
 }
 li {
   list-style-type: none;
   font-size: 20px;
-  font-family: Copperplate, Papyrus, fantasy;
+  font-family: "Geneva", Verdana, sans-serif;
   border: 2px;
 }

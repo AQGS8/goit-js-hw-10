@@ -11,9 +11,6 @@ const refs = {
   countryList : document.querySelector('.country-list'),
 };
 
-// const country_list = document.querySelector('.country-list');
-
-
 const clearMarkup = ref => (ref.innerHTML = '');
 
 const inputHandler = e => {
