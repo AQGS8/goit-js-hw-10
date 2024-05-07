@@ -3,7 +3,7 @@ import { Notify } from 'notiflix/build/notiflix-notify-aio';
 import debounce from 'lodash.debounce';
 import { fetchCountries } from './fetchCountries.js'; 
 
-const DEBOUNCE_DELAY = 300; 
+const DEBOUNCE_DELAY = 300;
 
 const refs = {
   searchEl : document.querySelector('#search-box'),
